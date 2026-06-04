@@ -18,7 +18,7 @@ Build a **production-ready Subscription Management System API** that handles **r
 
 Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of your API to ensure scalability and seamless communication with the frontend.  
 
-## 🔗 <a name="URL" font-size= 12px> Live URL: https://subscription-tracker-api-4gk4.onrender.com/ </a>
+## 🔗 <a name="URL" font-size= 12px target="_blank"> Live URL: https://subscription-tracker-api-4gk4.onrender.com/ </a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
