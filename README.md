@@ -2,8 +2,6 @@
   <h3 align="center">A Subscription Management System API</h3>
 </div>
 
-## 🔗 Live URL: <a name="URL" href="https://subscription-tracker-api-4gk4.onrender.com/" > https://subscription-tracker-api-4gk4.onrender.com/ </a>
-
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -19,6 +17,8 @@
 Build a **production-ready Subscription Management System API** that handles **real users, real money, and real business logic**.  
 
 Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of your API to ensure scalability and seamless communication with the frontend.  
+
+## 🔗 Live URL: <a name="URL" font-size= href="https://subscription-tracker-api-4gk4.onrender.com/" > https://subscription-tracker-api-4gk4.onrender.com/ </a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
